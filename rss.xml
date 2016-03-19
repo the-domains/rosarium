@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rosarium]]></title>
-        <description><![CDATA[Rosarium]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rosarium | The Blog of Justin Bowen ]]></title>
+        <description><![CDATA[Rosarium | The Blog of Justin Bowen ]]></description>
+        <link>https://thegrid.ai/rosarium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:38:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 21:43:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rosarium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cc682b-3bea-4e3f-baab-229f8fc8063d.jpg">]]></description>
-            <link>undefinedwelcome-to-~rosarium~/index.html</link>
+            <link>https://thegrid.ai/rosarium/welcome-to-~rosarium~/index.html</link>
             <guid isPermaLink="false">3efefee5-28f6-49d3-ba89-2b7516686cde</guid>
-            <pubDate>Sat, 19 Mar 2016 21:38:31 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 21:43:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
