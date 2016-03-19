@@ -2,6 +2,7 @@ name: Rosarium
 favicon: null
 layout_spectrum: 0.5908485669642687
 typography_spectrum: 0.7954144119285047
+title: 'Rosarium | The Blog of Justin Bowen '
 cta:
   domain: null
   bucket: null
