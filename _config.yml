@@ -1,6 +1,6 @@
 name: Rosarium
 favicon: null
-layout_spectrum: 0.5908485669642687
+layout_spectrum: 0.00927
 typography_spectrum: 0.7954144119285047
 title: 'Rosarium | The Blog of Justin Bowen '
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.4076559441164136
-  lightness: 0.21699680271558464
-  saturation: 0.5363163000438362
-  rhythmicContrast: 0.8357047953177243
+    - '#251d22'
+    - '#50484d'
+    - '#6c0713'
+    - '#a32b38'
+    - '#f62e45'
+  brandStrength: 0.5625
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
