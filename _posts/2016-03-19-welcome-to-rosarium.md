@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to ~Rosarium~
-datePublished: '2016-03-19T21:43:49.096Z'
-dateModified: '2016-03-19T21:38:39.669Z'
+datePublished: '2016-03-19T21:48:59.181Z'
+dateModified: '2016-03-19T21:48:34.682Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-welcome-to-rosarium.md
@@ -22,7 +22,7 @@ url: welcome-to-~rosarium~/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cc682b-3bea-4e3f-baab-229f8fc8063d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fda19da-9867-41a8-ab41-c3efcab41ce4.jpg)
 
 Welcome to ~Rosarium~
 
